@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MOLLY MINTZ</title>
+	    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Economica">
+		<link rel="stylesheet" type="text/css" href="PORTFOLIOreset.css">
+		<link rel="stylesheet" type="text/css" href="PORTFOLIOstyle.css">
+</head>
+<body>
+	<h1><a href="PORTFOLIOindex.html"><em><b>Molly Mintz</em></b></a></h1>
+		<nav><ul>
+			<li>HOME</li>
+			<li><a href="https://www.pullthisoff.com">BLOG</a></li>
+			<li><a href="/https://www.instagram.com/mintzmolly/">INSTAGRAM</a></li>
+			<li><a href="https://www.linkedin.com/in/mollymintz">LINKEDIN</a></li>
+			<li><a href="https://twitter.com/mintzmolly">TWITTER</a></li>
+</ul></nav>
+	<div id="email">
+		<h1><a href="mailto:mollybmintz@gmail.com?Subject=Hello!" target="_top">MOLLYBMINTZ<br>@GMAIL.COM</a></h1>
+	</div>
+</body>
+</HTML>
